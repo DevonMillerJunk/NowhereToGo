@@ -1,0 +1,25 @@
+Welcome to Nowhere to go!
+In this strategy game two 
+cutthroat spies are trying to 
+corner each other. The 
+gameboard is set up beforehand, 
+with 19 pads. Each pad is connected 
+to up to 6 adjacent pads via bridges.
+If the bridge has a grey blocker 
+on it, then you can't cross that 
+bridge. On each of your turns, 
+you first have to move. You can 
+move to any space on the board 
+such that,there is a path between 
+the space you are currently in 
+and that space that crosses open 
+bridges and does not go through 
+the pad where the other spy is.
+After you move, you then need to 
+place a blocker. You can place a 
+blocker on any bridge on the board, 
+provided that it doesn't already have
+a blocker on it. The game continues 
+until one player can't move, and thus loses.
+The winner is entitled to mock the 
+other player mercilessly.
